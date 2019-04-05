@@ -1,6 +1,6 @@
 'use strict'; // Vinicio - I want to use the new set of rules
 
-// Vinicio - THis file is NOT in master right now. THIS file
+// Vinicio -  KALI IS CUTE
 // is in a separate branch
 
 let isCute = false;
